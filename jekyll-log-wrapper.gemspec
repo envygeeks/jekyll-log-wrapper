@@ -14,7 +14,7 @@ Gem::Specification.new do |spec|
   spec.files = %W(Gemfile) + Dir["lib/**/*"]
   spec.required_ruby_version = ">= 2.1.0"
   spec.email = ["jordon@envygeeks.io"]
-  spec.name = "jekyll-log-adapter"
+  spec.name = "jekyll-log-wrapper"
   spec.require_paths = ["lib"]
   spec.has_rdoc = false
   spec.license = "MIT"
